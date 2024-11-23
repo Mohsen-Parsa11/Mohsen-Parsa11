@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-parsa11&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-parsa11" /> </p>
-<img align="right" alt="mohsen" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="mohsen" width="600px" height="500px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117oazqb051xcsdt39ixxwngulczjeh8nl3iqgvz7m&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 - 🌱 I’m currently learning **laravel**
 
