@@ -6,8 +6,10 @@
 
 
 - 🌱 I’m currently learning **laravel**
+- 👯 I’m looking to collaborate on Web Projects
+- 💼 I'm in 3th semester of computer science in Herat University
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohsen-parsa11](https://github.com/Mohsen-parsa11)
+- 👨‍💻 All of my projects are available at [https://github.com/Mohsen-parsa11](here)
 
 - 💬 Ask me about **javascript, php**
 
