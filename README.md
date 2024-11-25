@@ -4,14 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-parsa11&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-parsa11" /> </p>
 <img align="right" alt="mohsen" width="450px" height="300px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117oazqb051xcsdt39ixxwngulczjeh8nl3iqgvz7m&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-
+<h1></h1>
 - 🌱 I’m currently learning **laravel**
 - 👯 I’m looking to collaborate on Web Projects
 - 💼 I'm in 3th semester of computer science in Herat University
+- 💬 Ask me about **javascript, php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohsen-parsa11](here)
-
-- 💬 Ask me about **javascript, php**
 
 - 📫 How to reach me **mohsenp249@gmail.com**
 
