@@ -1,9 +1,9 @@
-<img src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/development.gif" width="100%" object-fit="fill" height="100vh" alt="header">
+<img src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/development.gif" width="100%" object-fit="fill"  alt="header">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsen-parsa11&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-parsa11" /> </p>
 <h1 align="center">Hi there👋, I'm Mohsen Parsa</h1>
 <h2 align="center">A passionate frontend developer from Afghanistan</h2>
 
-<img align="right" alt="mohsen" width="400px" height="280px" src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/developing.gif">
+<img align="right" alt="mohsen" width="420px"  margin-top="20px" src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/developing.gif">
 
 - 🌱 I’m currently learning **laravel**
 
