@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋, I'm Mohsen Parsa</h1>
 <h2 align="center">A passionate frontend developer from Afghanistan</h2>
 
-<img align="right" alt="mohsen" width="450px" height="300px" src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/developing.gif">
+<img align="right" alt="mohsen" width="100%" height="100vh" src="https://github.com/Mohsen-Parsa11/Mohsen-Parsa11/blob/main/developing.gif">
 
 - 🌱 I’m currently learning **laravel**
 
